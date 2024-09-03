@@ -11,6 +11,6 @@ Currently a work in progress
 https://github.com/dieterdaems/tutorial-app
 
 
-# Full-Stack SOftware development
+# Full-Stack Software development
 This is an app created for the course Full-Stack
 https://github.com/dieterdaems/full-stack
