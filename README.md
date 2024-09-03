@@ -9,3 +9,8 @@ https://github.com/dieterdaems/Data-Engineering
 This is an online tutorial I followed to learn more about full-stack React Apps
 Currently a work in progress
 https://github.com/dieterdaems/tutorial-app
+
+
+# Full-Stack SOftware development
+This is an app created for the course Full-Stack
+https://github.com/dieterdaems/full-stack
