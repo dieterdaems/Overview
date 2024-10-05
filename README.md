@@ -6,7 +6,7 @@ This is a project for the Data Engineering class I took
 https://github.com/dieterdaems/Data-Engineering
 
 # React Tutorial
-This is an online tutorial I followed to learn more about full-stack React Apps
+A small project with help from online resources to create a full-stack React App
 Currently a work in progress
 https://github.com/dieterdaems/tutorial-app
 
