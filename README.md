@@ -12,5 +12,5 @@ https://github.com/dieterdaems/tutorial-app
 
 
 # Full-Stack Software development
-This is an app created for the course Full-Stack
+This is an app created for the course Full-Stack with a classmate
 https://github.com/dieterdaems/full-stack
